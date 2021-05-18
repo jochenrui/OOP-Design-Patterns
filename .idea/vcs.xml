@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/ProjectEuler_solutions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Vorlesung_SE_Gruppe12" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cobalt-challenge" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/marta-card-display" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ospin-front-end-challenge" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/performancereportingUI" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/personal-website-v2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rollercoaster" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring_practise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springboot-postgresql-hibernate-crud-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/webpage" vcs="Git" />
+  </component>
+</project>
